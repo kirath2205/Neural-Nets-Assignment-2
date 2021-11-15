@@ -10,7 +10,7 @@ Here, we have evaluated and utilised, as well as tuned 3 different models: -
 ## Testing the Code
 
 1. Extract the test images zip file in the root directory of Google Colab
-2. Run the Inception_v3_testing.ipynb notebook
+2. Run the `Inception_v3_testing.ipynb` notebook
 
 ### AlexNet
 

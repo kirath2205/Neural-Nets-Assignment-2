@@ -15,5 +15,5 @@ AlexNet: Run the AlexNet_updated.ipynb notebook
 
 VGG-16: Run the NN_vgg16.ipynb notebook
 
-Inception-v3: Run theInception_with_pre_processing_MINC_2500.ipynb notebook
+Inception-v3: Run the Inception_with_pre_processing_MINC_2500.ipynb notebook
 
